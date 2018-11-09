@@ -5,7 +5,6 @@ public class Bank {
 	private List<BranchOffice> branchOffices;
 	private  List<Employee> employees;
 	
-	
 	public Bank(List<BranchOffice> branchOffices, List<Employee> employees) {
 		this.branchOffices = new ArrayList<BranchOffice>();
 		this.employees = new ArrayList<Employee>();

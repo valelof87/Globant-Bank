@@ -8,7 +8,7 @@ public abstract class Employee {
 	protected double salary;
 	protected int bonusSalaried;
 	protected int bonusContracted;
-	protected boolean isSalaried = true;
+	protected boolean isSalaried ;
 	protected double baseSalary;
 	protected double ratePerHour;
 	
